@@ -1,6 +1,7 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "ISSUES"
 ---
-Your textii lets go
-Use the left arrow to go back!
+
+##Issues sind eine Möglichkeit, Aufgaben, Verbesserungen und Fehler besser im Auge zu behalten. 
+Man kann sie teilen und mit dem Rest ihres teams besprechen##
